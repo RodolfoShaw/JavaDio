@@ -1,5 +1,12 @@
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+public class Operadores {
+    public static void main(String[] args) {
+        int numero = 5;
+        // x repetição 
+
+        // numero = numero - 1;
+
+        System.out.println(numero--);
+        System.out.println(numero);
     }
 }
+
